@@ -18,7 +18,7 @@
 - 🚀 Information Technology student at Univeridade Positivo.
 - 📫 How to reach me: lucasfelippemello3@gmail.com.
 
-### 💻 Technologies I have experience with: 
+### 💻 Languages and Technologies I have experience with: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -26,7 +26,7 @@
   <img align="center" alt="Lucas-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
-### 💻 Technologies I currently work the most:
+### 💻 Languages and Technologies I currently work the most:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
