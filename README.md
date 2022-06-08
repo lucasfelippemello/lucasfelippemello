@@ -1,3 +1,67 @@
+<p align='center'>
+  English below
+ </p>
+
+<h1 align='center'>
+ Olá, eu sou o Lucas!
+</h1>
+
+<p align='center'>
+  Desenvolvedor Front-end
+</p>
+
+### 🧛🏽‍♂️ Sobre mim:
+
+<p>
+  <em>
+    Sou um desenvolvedor de 22 anos em início de carreira. Moro em Curitiba e estou estudando para ser um Dev. Full stack. 
+    </em>
+</p>
+
+- 🌱 Atualmente estou aprendendo C# e JS.
+- 🚀 Graduando em Sistemas de Informação na Faculdade Positivo.
+- 📫 Contato: lucasfelippemello3@gmail.com.
+
+### 💻 Linguagens e tecnologias que eu tenho experiência: 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Lucas-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+
+### 💻 Linguagens e tecnologias que eu mais trabalho atualmente:
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+### 📈 Minhas estatísticas:
+
+<div align="center">
+  <a href="https://github.com/lucasfelippemello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfelippemello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelippemello&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+##
+
+<div>
+   <a href="https://www.youtube.com/channel/UC8-XVlSKe70M6dRtZYdra0g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/cadeoponto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/cadeoponto" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucasfelippemello3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-felippe-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/cadeoponto" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://soundcloud.com/lucasponto" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a>
+  
+  
+</div>
+
+
+
 <h1 align='center'>
  Hi! I'm Lucas.
 </h1>
@@ -14,7 +78,7 @@
     </em>
 </p>
 
-- 🌱 I’m currently learning React.js and Java.
+- 🌱 I’m currently learning C# and JS.
 - 🚀 Information Technology student at Univeridade Positivo.
 - 📫 How to reach me: lucasfelippemello3@gmail.com.
 
