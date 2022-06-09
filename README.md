@@ -18,7 +18,7 @@
     </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo C# e JS.
+- 🌱 Atualmente estou aprendendo PHP e JS.
 - 🚀 Graduando em Sistemas de Informação na Faculdade Positivo.
 - 📫 Contato: lucasfelippemello3@gmail.com.
 
@@ -78,7 +78,7 @@
     </em>
 </p>
 
-- 🌱 I’m currently learning C# and JS.
+- 🌱 I’m currently learning PHP and JS.
 - 🚀 Information Technology student at Univeridade Positivo.
 - 📫 How to reach me: lucasfelippemello3@gmail.com.
 
