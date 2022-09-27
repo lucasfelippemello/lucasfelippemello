@@ -73,7 +73,7 @@
     </em>
 </p>
 
-- 🌱 I’m currently learning Python and JS.
+- 🌱 I’m currently learning C# and PostgreSQL.
 - 🚀 Information Technology student at Univeridade Positivo.
 - 📫 How to reach me: lucasfelippemello3@gmail.com.
 
