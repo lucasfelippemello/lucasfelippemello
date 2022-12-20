@@ -14,7 +14,7 @@
 
 <p>
   <em>
-    Sou um desenvolvedor de 22 anos em início de carreira. Moro em Curitiba e estou estudando para ser um Dev. Full stack. 
+    Sou um desenvolvedor de 23 anos em início de carreira. Moro em Curitiba e estou estudando para ser um Dev. Full stack. 
     </em>
 </p>
 
